@@ -2,6 +2,10 @@
 
 #Pagina de Python: https://www.python.org/
 
+#############################################################################################################################################
+
+"Representa las diferentes sintaxis que existen de crear comentarios en el lenguaje"
+
 #Este es un tipo de comentario que se utiliza unicamente en una linea.
 
 "Este es otro tipo de comentario que al igual que con #, solo se utiliza en una línea."
